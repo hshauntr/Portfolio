@@ -19,5 +19,5 @@ For this project I did python
 By utilizing MATLAB, 
 
 ## Contact me 
-Email : hshauntr@gmail.com
-LinkedIn : https://www.linkedin.com/in/hshauntr/
+**Email:** hshauntr@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/hshauntr/] (https://www.linkedin.com/in/hshauntr/)
