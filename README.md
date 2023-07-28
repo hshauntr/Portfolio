@@ -35,8 +35,11 @@ clearly depict these relationships between the predictor and response variables.
 
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/SummaryModel.png)
 
-### [Project 2: Filtering the DataBase of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
-For this project I did python
+### [Project 2: Data Structure of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
+- Reads survey data file provided and stores the information in a Python data structure
+- Ask the user which of the five methods they want to use to select a winner. This being Plurality voting, Borda voting, Condorcet voting, Instant-runoff(IRV) voting, and Approval voting.
+- Run an implementation of the chosen voting system and select a winner or declare a draw
+- Inform the user of the results, including total votes and winner
 
 ### [Project 3: Earthquake Data Visualization](https://github.com/hshauntr/EarthQDataV)
 By utilizing MATLAB, 
