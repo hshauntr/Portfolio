@@ -20,4 +20,4 @@ By utilizing MATLAB,
 
 ## Contact me 
 **Email:** hshauntr@gmail.com
-**LinkedIn:** [https://www.linkedin.com/in/hshauntr/] (https://www.linkedin.com/in/hshauntr/)
+**LinkedIn:** [https://www.linkedin.com/in/hshauntr/](https://www.linkedin.com/in/hshauntr/)
