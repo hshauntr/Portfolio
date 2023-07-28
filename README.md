@@ -13,7 +13,7 @@ As a passionate data scientist, my portfolio displays my expertise in utilizing 
 * xyz
 
 
-![](https://github.com/hshauntr/hshauntr.github.io/tree/main/assets/img/PredGraph.png)
+![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/PredGraph.png)
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/RSqrCarrierDelay.png)
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/SummaryModel.png)
 
