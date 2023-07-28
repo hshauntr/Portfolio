@@ -6,16 +6,16 @@ As a passionate data scientist, my portfolio displays my expertise in utilizing 
 
 ## Index
 
-### [Project 1: Predicting and Analyzing Causes of Delay for Flight Departures] 
+### [Project 1: Predicting and Analyzing Causes of Delay for Flight Departures] (https://github.com/hshauntr/CausesOfDelays)
 * Used R 
 * xyz
 * xyz
 * xyz
 
-### [Project 2: Filtering the DataBase of a Questionnaire]
+### [Project 2: Filtering the DataBase of a Questionnaire] (https://github.com/hshauntr/VotingQuestionnaire)
 For this project I did python
 
-### [Project 3: Earthquake Data Visualization] 
+### [Project 3: Earthquake Data Visualization] (https://github.com/hshauntr/EarthQDataV)
 By utilizing MATLAB, 
 
 ## Contact me 
