@@ -31,8 +31,7 @@ late aircraft and carrier issues. This is an extremely valuable resource as it g
 work towards when improving their on-time performance. For example, these issues are well within the
 airline’s control, if they could perhaps improve their scheduling or operational procedures, then perhaps
 maintenance or crew problems would be minimized. Our model is also easy to understand and it’s able to
-clearly depict these relationships between the predictor and response variables. However, this also
-determines the downfall of our model.
+clearly depict these relationships between the predictor and response variables. 
 
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/SummaryModel.png)
 
