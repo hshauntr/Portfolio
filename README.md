@@ -17,3 +17,8 @@ For this project I did python
 
 ### [Project 3: Earthquake Data Visualization] 
 By utilizing MATLAB, 
+
+
+| Contact Method  |  |
+| Email | hshauntr@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/hshauntr/  |
