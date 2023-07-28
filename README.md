@@ -1,8 +1,6 @@
 # Portfolio 
 As a passionate data scientist, my portfolio displays my expertise in utilizing sophisticated analytical methods on intricate data sets. My projects, ranging from predictive modeling to data visualization, exhibit my proficiency in employing data to tackle real-world challenges.
 
-### Projects
-
 ### [Project 1: Predicting and Analyzing Causes of Delay for Flight Departures] 
 * Used R 
 * xyz
