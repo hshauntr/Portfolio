@@ -42,7 +42,9 @@ clearly depict these relationships between the predictor and response variables.
 - Inform the user of the results, including total votes and winner
 
 ### [Project 3: Earthquake Data Visualization](https://github.com/hshauntr/EarthQDataV)
-By utilizing MATLAB, 
+- Read the earthquake data provided from a .csv file, and store the information in a MATLAB data structure. This being a table data structure
+- GUI that contains an interactive (capable of zooming and panning) world map, a 2D plot of the earthquake occurrences in the given year, including their location and magnitude. The plot of earthquake occurences over time is also updated every time to highlight the year chose by the user. Utilized through geobubble function to plot earthquake data on the world map.
+- Label on all figures, buttons, axes, and plots to provide necessary information. This includes a legend for the earthquake bubble chart.
 
 ## Contact me 
 **Email:** hshauntr@gmail.com
