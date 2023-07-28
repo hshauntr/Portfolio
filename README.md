@@ -18,7 +18,7 @@ For this project I did python
 ### [Project 3: Earthquake Data Visualization] 
 By utilizing MATLAB, 
 
-
+## Contact me 
 | Contact Method  |  |
 | ------------- | ------------- |
 | Email | hshauntr@gmail.com |
