@@ -20,5 +20,6 @@ By utilizing MATLAB,
 
 
 | Contact Method  |  |
+| ------------- | ------------- |
 | Email | hshauntr@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/hshauntr/  |
