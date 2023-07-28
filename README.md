@@ -20,6 +20,7 @@ resource that can help both airline companies and consumers. This is proven when
 model on departing flights from Delta Airlines at the San Francisco International Airport from January
 2013 until 2023, and recognized that flight carrier delay and late arriving aircraft were the biggest causes
 of delays, suggesting that it is well within an airline’s control to improve their on-time performance.
+
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/PredGraph.png)
 
 To sum it up, our model did a great job at predicting flight departure times when considering the
