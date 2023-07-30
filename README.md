@@ -7,7 +7,7 @@ As a passionate data scientist, my portfolio displays my expertise in utilizing 
 ## Index
 
 ### [Project 1: Predicting and Analyzing Causes of Delay for Flight Departures](https://github.com/hshauntr/CausesOfDelays)
-  Paired with a growing population is a demand for travel. In My study, I closely examined
+  Paired with a growing population is a demand for travel. In my study, I closely examined
 airline departure times by comparing their scheduled and actual departure times. I considered a delay to
 be any difference of 15 minutes or more and recorded the cause of the delay. To ensure a fair assessment
 of each airline’s performance, I collected data from a single airport every day for 10 years. By applying
