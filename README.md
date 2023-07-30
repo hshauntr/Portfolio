@@ -33,7 +33,7 @@ airline’s control, if they could perhaps improve their scheduling or operation
 maintenance or crew problems would be minimized. Our model is also easy to understand and it’s able to
 clearly depict these relationships between the predictor and response variables. 
 
-![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/SummaryModel.png)
+![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/summarymodel.png)
 
 ### [Project 2: Data Structure of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
 - Reads survey data file provided and stores the information in a Python data structure
