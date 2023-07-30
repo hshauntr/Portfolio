@@ -21,9 +21,9 @@ model on departing flights from Delta Airlines at the San Francisco Internationa
 2013 until 2023, and recognized that flight carrier delay and late arriving aircraft were the biggest causes
 of delays, suggesting that it is well within an airline’s control to improve their on-time performance.
 
-![prediction graph](assets/img/predgraph.png)
+![Prediction Graph](assets/img/predgraph.png)
 
-![](assets/img/summarymodel.png)
+![Summary of Model](assets/img/summarymodel.png)
 
 - Implemented mathematical skills to build a mathematical model, using R for linear regression modeling and least squares optimization.
 - Demonstrated strong analytical skills by conducting mathematical analysis on the regression model, observing what the results that the model depicts.
