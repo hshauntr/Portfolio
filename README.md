@@ -35,6 +35,12 @@ clearly depict these relationships between the predictor and response variables.
 
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/summarymodel.png)
 
+- Implemented mathematical skills from to build/extend a mathematical model, using R for linear regression modeling and least squares optimization.
+- Demonstrated strong analytical skills by conducting mathematical analysis on the regression model, observing what the results that the model depicts.
+- Utilized real world large datasets of flight departure data to identify and analyze causes of delays.
+- Addressed practical challenges in the aviation industry, showcasing the ability to apply data science to real-world problems.
+- Presented clear and concise findings, highlighting effective communication skills.
+
 ### [Project 2: Data Structure of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
 - Reads survey data file provided and stores the information in a Python data structure
 - Ask the user which of the five methods they want to use to select a winner. This being Plurality voting, Borda voting, Condorcet voting, Instant-runoff(IRV) voting, and Approval voting.
