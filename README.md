@@ -35,7 +35,7 @@ clearly depict these relationships between the predictor and response variables.
 
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/summarymodel.png)
 
-- Implemented mathematical skills from to build/extend a mathematical model, using R for linear regression modeling and least squares optimization.
+- Implemented mathematical skills to build a mathematical model, using R for linear regression modeling and least squares optimization.
 - Demonstrated strong analytical skills by conducting mathematical analysis on the regression model, observing what the results that the model depicts.
 - Utilized real world large datasets of flight departure data to identify and analyze causes of delays.
 - Addressed practical challenges in the aviation industry, showcasing the ability to apply data science to real-world problems.
