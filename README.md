@@ -32,7 +32,7 @@ of delays, suggesting that it is well within an airline’s control to improve t
 - Presented clear and concise findings, highlighting effective communication skills.
 
 ### [Project 2: Data Structure of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
-- Used Python for data handling and manipulation by efficiently reading and storing survey data in a Python data structure.
+- Used Python for data handling and manipulation by efficiently reading and storing survey data in a Python data structure. Questionnare had 512 entries.
 - Implemented Plurality voting, Borda voting, Condorcet voting, Instant-runoff (IRV) voting, and Approval voting, showcasing versatility in voting systems.
 - Provided practical decision-making support with clear winner selections or draws.
 - Inform the user of the results, including total votes and winner. 
