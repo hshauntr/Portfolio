@@ -42,15 +42,18 @@ clearly depict these relationships between the predictor and response variables.
 - Presented clear and concise findings, highlighting effective communication skills.
 
 ### [Project 2: Data Structure of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
-- Reads survey data file provided and stores the information in a Python data structure
-- Ask the user which of the five methods they want to use to select a winner. This being Plurality voting, Borda voting, Condorcet voting, Instant-runoff(IRV) voting, and Approval voting.
-- Run an implementation of the chosen voting system and select a winner or declare a draw
-- Inform the user of the results, including total votes and winner
+- Used Python for data handling and manipulation by efficiently reading and storing survey data in a Python data structure.
+- Implemented Plurality voting, Borda voting, Condorcet voting, Instant-runoff (IRV) voting, and Approval voting, showcasing versatility in voting systems.
+- Provided practical decision-making support with clear winner selections or draws.
+- Inform the user of the results, including total votes and winner. 
 
 ### [Project 3: Earthquake Data Visualization](https://github.com/hshauntr/EarthQDataV)
-- Read the earthquake data provided from a .csv file, and store the information in a MATLAB data structure. This being a table data structure
-- GUI that contains an interactive (capable of zooming and panning) world map, a 2D plot of the earthquake occurrences in the given year, including their location and magnitude. The plot of earthquake occurences over time is also updated every time to highlight the year chose by the user. Utilized through geobubble function to plot earthquake data on the world map.
-- Label on all figures, buttons, axes, and plots to provide necessary information. This includes a legend for the earthquake bubble chart.
+- Reading and storing earthquake data from a .csv file into a MATLAB table data structure.
+- Created an interactive GUI with a world map and 2D plots to visualize earthquake occurrences, locations, and magnitudes for a given year.
+- Utilized geobubble function to efficiently plot earthquake data on the world map, showcasing technical proficiency in data visualization.
+- Ensured user-friendly experience by providing labels on figures, buttons, axes, and plots, along with a legend for the earthquake bubble chart.
+- Effectively presented temporal changes in earthquake occurrences by updating the plot based on the user's chosen year.
+- The project's focus on earthquake data visualization highlights the real-world application of data science in understanding geospatial patterns and seismic activity.
 
 ## Contact me 
 **Email:** hshauntr@gmail.com
