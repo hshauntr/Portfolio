@@ -21,17 +21,7 @@ model on departing flights from Delta Airlines at the San Francisco Internationa
 2013 until 2023, and recognized that flight carrier delay and late arriving aircraft were the biggest causes
 of delays, suggesting that it is well within an airline’s control to improve their on-time performance.
 
-![PredictionGraph](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/predgraph.png)
-
-To sum it up, my model did a great job at predicting flight departure times when considering the
-major causes of flight delay, with an accuracy of 92.47%. Through mathematical analysis, I was able
-to conclude that for My data set of analyzing departure times, within 2013 to 2023 for flights in San
-Francisco international airport solely from Delta Airlines, the main factors of flight delays were due to
-late aircraft and carrier issues. This is an extremely valuable resource as it gives airlines a direction to
-work towards when improving their on-time performance. For example, these issues are well within the
-airline’s control, if they could perhaps improve their scheduling or operational procedures, then perhaps
-maintenance or crew problems would be minimized. My model is also easy to understand and it’s able to
-clearly depict these relationships between the predictor and response variables. 
+![prediction graph](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/predgraph.png)
 
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/summarymodel.png)
 
