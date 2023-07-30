@@ -58,4 +58,5 @@ of delays, suggesting that it is well within an airline’s control to improve t
 
 ## Contact me 
 **Email:** hshauntr@gmail.com
+
 **LinkedIn:** [https://www.linkedin.com/in/hshauntr/](https://www.linkedin.com/in/hshauntr/)
