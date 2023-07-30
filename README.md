@@ -47,6 +47,8 @@ of delays, suggesting that it is well within an airline’s control to improve t
 - Effectively presented temporal changes in earthquake occurrences by updating the plot based on the user's chosen year.
 - The project's focus on earthquake data visualization highlights the real-world application of data science in understanding geospatial patterns and seismic activity.
 
+![Earthquake GUI](assets/img/GUI.png)
+
 ## Contact me 
 **Email:** hshauntr@gmail.com
 **LinkedIn:** [https://www.linkedin.com/in/hshauntr/](https://www.linkedin.com/in/hshauntr/)
