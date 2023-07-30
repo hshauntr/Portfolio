@@ -21,7 +21,7 @@ model on departing flights from Delta Airlines at the San Francisco Internationa
 2013 until 2023, and recognized that flight carrier delay and late arriving aircraft were the biggest causes
 of delays, suggesting that it is well within an airline’s control to improve their on-time performance.
 
-![prediction graph](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/predgraph.png)
+![prediction graph](predgraph.png)
 
 ![](https://github.com/hshauntr/hshauntr.github.io/blob/main/assets/img/summarymodel.png)
 
