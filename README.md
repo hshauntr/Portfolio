@@ -7,7 +7,7 @@ As a passionate data scientist, my portfolio displays my expertise in utilizing 
 ## Index
 
 ### [Project 1: Predicting and Analyzing Causes of Delay for Flight Departures](https://github.com/hshauntr/CausesOfDelays)
-Paired with a growing population is a demand for travel. In My study, I closely examined
+  Paired with a growing population is a demand for travel. In My study, I closely examined
 airline departure times by comparing their scheduled and actual departure times. I considered a delay to
 be any difference of 15 minutes or more and recorded the cause of the delay. To ensure a fair assessment
 of each airline’s performance, I collected data from a single airport every day for 10 years. By applying
@@ -33,7 +33,7 @@ of delays, suggesting that it is well within an airline’s control to improve t
 
 ### [Project 2: Data Structure of a Questionnaire](https://github.com/hshauntr/VotingQuestionnaire)
 
-In this project, I explore the significance of various voting methods and their computational aspects, revealing how different methods can lead to distinct winners in an election. By implementing alternative voting systems, we gain valuable insights into their impact on election outcomes and the fairness of the democratic process. The prevalent "one person, one vote" principle, seen in plurality voting, has its drawbacks, such as vote splitting, which distorts voter preferences and can produce undesired winners. To address this, we investigate ranked ballots as a potential solution. By allowing voters to rank candidates, these systems offer a more nuanced representation of choices and can lead to more accurate results. Employing real-world data from a questionnaire-based CSV file adds practical relevance to the project, especially in election scenarios. The computational analysis of different voting methods highlights the role of data-driven approaches in decision-making for democratic societies. This project showcases our commitment to enhancing election fairness and advocating for more representative democratic outcomes.
+  In this project, I explore the significance of various voting methods and their computational aspects, revealing how different methods can lead to distinct winners in an election. By implementing alternative voting systems, we gain valuable insights into their impact on election outcomes and the fairness of the democratic process. The prevalent "one person, one vote" principle, seen in plurality voting, has its drawbacks, such as vote splitting, which distorts voter preferences and can produce undesired winners. To address this, we investigate ranked ballots as a potential solution. By allowing voters to rank candidates, these systems offer a more nuanced representation of choices and can lead to more accurate results. Employing real-world data from a questionnaire-based CSV file adds practical relevance to the project, especially in election scenarios. The computational analysis of different voting methods highlights the role of data-driven approaches in decision-making for democratic societies. This project showcases our commitment to enhancing election fairness and advocating for more representative democratic outcomes.
 
 ![Questionnare in csv](/assets/img/Questionnare.png)
 
@@ -45,7 +45,7 @@ In this project, I explore the significance of various voting methods and their 
 
 ### [Project 3: Earthquake Data Visualization](https://github.com/hshauntr/EarthQDataV)
 
-My Earthquake Data Visualization project successfully developed a user-friendly application with an intuitive graphical interface to analyze seismic activity. By leveraging data science and visualization techniques, it transforms raw earthquake data into visually compelling representations. The GUI empowers users to explore earthquake trends over time, contributing valuable insights to researchers and the public. This project showcases my data-driven approach to address real-world challenges in data science.
+  My Earthquake Data Visualization project successfully developed a user-friendly application with an intuitive graphical interface to analyze seismic activity. By leveraging data science and visualization techniques, it transforms raw earthquake data into visually compelling representations. The GUI empowers users to explore earthquake trends over time, contributing valuable insights to researchers and the public. This project showcases my data-driven approach to address real-world challenges in data science.
 
 ![Earthquake GUI](assets/img/GUI.png)
 
