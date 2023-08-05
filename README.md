@@ -37,7 +37,7 @@ of delays, suggesting that it is well within an airline’s control to improve t
 
 ![Questionnare in csv](/assets/img/Questionnare.png)
 
-- Used Python for data handling and manipulation by efficiently reading and storing survey data in a Python data structure. Questionnare had 512 entries.
+- Used Python for data handling and manipulation by efficiently reading and storing survey data in a Python data structure. Questionnaire had 512 entries.
 - Implemented Plurality voting, Borda voting, Condorcet voting, and Approval voting, showcasing versatility in voting systems.
 - Provided practical decision-making support with clear winner selections or draws.
 - Inform the user of the results, including total votes and winner.
